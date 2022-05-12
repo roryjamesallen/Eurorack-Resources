@@ -36,5 +36,6 @@ Download [GitHub Desktop](https://desktop.github.com/) and [KiCad 6.0](https://w
 5. Click 'Publish repository' in the window that pops up
 
 
-You can now make any changes you like on your computer, either changes to the KiCad project or adding new files to the folder, and you can just fetch origin, commit the changes, and then 'Push Origin' which is the same as 'Publish repository' but for changes after the very first commit.
+You can now make any changes you like on your computer, either changes to the KiCad project or adding new files to the folder, and you can just fetch origin, commit the changes, and then 'Push Origin' which is the same as 'Publish repository' but for changes after the very first commit.  
+
 The best part (in my opinion) about this process, is that anyone can clone (download) your repository, with the knowledge that the KiCad file structure will work perfectly, as it's identical to your project.
